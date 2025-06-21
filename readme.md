@@ -1,2 +1,3 @@
 # Hey,  
-I am going to build a macropad, that is modular with metal pins and magnets on the sides, so that they snap together.
+I am going to build a modular led tile system.
+Its my second time designing a pcb. My only thing before was hackpad.
