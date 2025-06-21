@@ -1,14 +1,4 @@
-# Multi_macropad
-A modular macropad system 
+# Modular leds
 
-	
-## 24.5.  
-
-Hey, today I started the project by creating the github repository and researching.
-~1h
-
-## 26.5.  
-
-I thought a lot about what modules I want to do and decided on a main module, a slider and a knob module.
-I also started researching and picking out parts
-~2h
+21.6.25
+I decided to change the project I will do, because i didnt manage to do the other project. I think that will be a bit easier for the beginning.
